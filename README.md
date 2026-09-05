@@ -1,6 +1,6 @@
 # Operational Database
 
-<img src="./mini_project/Figure/Er_Dw.png" width="400" alt="ER Diagram">
+![ER](./Figure/Er_Dw.png)
 
 
 # Question 
